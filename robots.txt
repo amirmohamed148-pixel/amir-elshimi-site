@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amirmohamed148-pixel.github.io/amir-elshimi-site/sitemap.xml
